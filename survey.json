@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "content": "Hello, this is TIFFANY from DiscoveryPro with questions for {name} regarding accident, is this {name}?",
+      "confirm": "",
+      "type": "text"
+    },
+    {
+      "content": "Please state your name for the records?",
+      "confirm": "Please confirm your name is",
+      "type": "text"
+    },
+    {
+      "content": "What is your Date of Birth?",
+      "confirm": "Please confirm your Date of Bitrh is",
+      "type": "text"
+    },
+    {
+      "content": "When did the accident happen?",
+      "confirm": "Please confirm accident happend on",
+      "type": "text"
+    },
+    {
+      "content": "What is the address where accident occurred?",
+      "confirm": "Please confirm accident happend on",
+      "type": "text"
+    },
+    {
+      "content": "Where you hurt?",
+      "confirm": "Please confirm accident happend on",
+      "type": "text"
+    },
+    {
+      "content": "Did Ambulance come?",
+      "confirm": "Please confirm accident happend on",
+      "type": "text"
+    }
+  ],
+  "title": "Flask"
+}

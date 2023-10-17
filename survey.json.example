@@ -1,0 +1,21 @@
+{
+  "questions": [
+    {
+      "body": "What is your full name?",
+      "type": "text"
+    },
+    {
+      "body": "What is your Date of Birth?",
+      "type": "text"
+    },
+    {
+      "body": "Did you have an Accident?",
+      "type": "text"
+    },
+    {
+      "body": "Did Ambulance come to the scene?",
+      "type": "text"
+    }
+  ],
+  "title": "Flask"
+}
